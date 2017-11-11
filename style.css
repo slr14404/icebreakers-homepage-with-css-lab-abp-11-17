@@ -14,3 +14,6 @@ header {
 header nav {
   float: right;
 }
+nav ul {
+  margin: 40px 0 0 0;
+}
