@@ -33,13 +33,13 @@ nav a:hover{
   color: #0056b3;
 }
 
-h3 #header {
+h3#header {
   float: left;
   font-size: 30px;
   text-decoration: none;
   color: #868e96;
 }
 
-h3 #header:hover {
+h3#header:hover {
   text-decoration: underline;
   }
