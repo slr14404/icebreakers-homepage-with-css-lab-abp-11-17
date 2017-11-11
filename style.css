@@ -45,7 +45,7 @@ h3#header {
   font-size: 30px;
   }
 
-h3#header a:hover {
+#header a:hover {
   text-decoration: underline;
   }
 
