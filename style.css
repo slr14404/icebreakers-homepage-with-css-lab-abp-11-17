@@ -65,6 +65,7 @@ div.jumbotron {
   line-height: 40px;
   }
 
-.questions.btn {
+div.questions {
   padding: 0 20px 0 20px;
 }
+
