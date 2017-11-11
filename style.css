@@ -33,7 +33,7 @@ nav a:hover{
   color: #0056b3;
 }
 
-#header {
+h3 #header {
   float: left;
   font-size: 30px;
 }
@@ -45,5 +45,4 @@ h3 #header {
 
 h3 #header:hover {
   text-decoration: underline;
-  color: #0056b3;
-}
+  }
