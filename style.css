@@ -1,11 +1,10 @@
 *{
   font-family: "Helvetica", "Arial", "San-serif";
-  padding-left: 30px;
-  padding-right: 30px;
 }
 
 body {
-  padding: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 header {
