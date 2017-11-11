@@ -9,7 +9,7 @@ body {
 
 header {
   height: 100px;
-  border-bottom: solid 1px #CCCCCC;
+  border-bottom: 1px solid #CCCCCC;
 }
 
 header nav {
