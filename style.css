@@ -14,7 +14,6 @@ header {
 
 header nav {
   float: right;
-  border-bottom: solid 1px #CCCCCC;
 }
 nav ul {
   margin: 40px 0 0 0;
