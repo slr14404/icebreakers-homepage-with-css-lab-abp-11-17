@@ -38,7 +38,7 @@ nav a:hover{
   font-size: 30px;
 }
 
-#header {
+#header a ref {
   text-decoration: none;
   color: #868e96;
 }
